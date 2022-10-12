@@ -5,9 +5,9 @@ Chef oeuvre n°2 du projet ZZ1
 Made by GAUTIER Lucas, MONTAGNON Tom and BENQUET Matthias
 
 AI using QLearning to learn how to defeat each rooms of our previous Arcade Game that has been tweaked for the project.
-Our methods give results for room 0 to room 8 with the exception of room 6 and some problems with low learning time on room 7
+Our methods give results for room 0 to room 8 with the exception of room 6 and some problems with low learning time on room 7.
 
-Click on JOUER to play a harder version of the Game and on ENTRAINEMENT to train the AI on the game (the "VOIR" Button let you watch how the ai move in the room we suggest putting a very low delaySDL 10-30 if you activate this button)
+Click on JOUER to play a harder version of the Game and on ENTRAINEMENT to train the AI on the game (the "VOIR" Button let you watch how the ai move in the room we suggest putting a very low delaySDL 10-30 if you activate this button).
 
 To play you have to capture all the green slimes to move to the next room at the top, the next room will be randomly choose between the differents one and you have to complete the last one (the big pink one) to complete the game.
 
@@ -19,6 +19,6 @@ For training, the game will ask you some parameters in the terminal. We suggest 
 - delaySDL = 100 or 150 (time for the character to move)
 - FakeRun = 0 (it's the Debug Mode if you don't want to ruin your Qtables or watch a run with no Qtables)
 
-Press ENTER at the end
+Press ENTER at the end to the last run of the AI (that exploit what it learned).
 
-Compile and Have Fun
+Compile and Have Fun.
