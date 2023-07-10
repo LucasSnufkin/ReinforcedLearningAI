@@ -4,6 +4,10 @@ Chef oeuvre n°2 du projet ZZ1
 
 Made by GAUTIER Lucas, MONTAGNON Tom and BENQUET Matthias
 
+Dependencies : SDL2 /  SDL2_Image / SDL2_gfx / SDL2_ttf
+
+
+
 AI using QLearning to learn how to defeat each rooms of our previous Arcade Game that has been tweaked for the project.
 Our methods give results for room 0 to room 8 with the exception of room 6 and some problems with low learning time on room 7.
 
@@ -19,6 +23,6 @@ For training, the game will ask you some parameters in the terminal. We suggest 
 - delaySDL = 100 or 150 (time for the character to move)
 - FakeRun = 0 (it's the Debug Mode if you don't want to ruin your Qtables or watch a run with no Qtables)
 
-Press ENTER at the end to the last run of the AI (that exploit what it learned).
+Press ENTER at the end to see the last run of the AI (that exploit what it learned).
 
 Compile and Have Fun.
